@@ -1,0 +1,54 @@
+body {
+    font-family: 'Handjet', sans-serif;
+    background-color: #f5f5f5;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #0047ab;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+h2 {
+    font-size: 28px;
+    border-bottom: 2px solid #0047ab;
+    padding-bottom: 5px;
+}
+
+ul {
+    margin-left: 20px;
+}
+
+a {
+    color: #0077ff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+footer {
+    background-color: #999999;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    font-size: 14px;
+}
+
+#selfie {
+    width: 100px;
+}
+
+#BottomText {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 10;
+}
