@@ -7,6 +7,7 @@ body {
 }
 
 header {
+    /* flexbox layout */
     display: flex;
     flex-direction: column;
     background-color: #0047ab;
