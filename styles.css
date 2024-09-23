@@ -62,8 +62,9 @@ ul > li {
     color:#333;
 }
 
-#contactData {
-    border: solid red;
+#contactData p {
+    border: solid darkslategrey;
     width: 200px;
+    text-align: center;
 }
 
